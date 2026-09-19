@@ -1,5 +1,5 @@
 👋 Hi, I'm Sathish Kumar
-🐍 Python Developer | Full Stack Developer | UI/UX Enthusiast
+🐍 Python Developer 
 
 I'm a B.Tech Information Technology student passionate about building practical, modern, and user-friendly software applications.
 
