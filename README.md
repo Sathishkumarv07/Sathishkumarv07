@@ -1,6 +1,6 @@
 👋 Hi, I'm Sathish Kumar
 🎓 B.Tech Information Technology Student
-🐍 FrontEnd Developer
+🐍 Python Developer
 
 🛠️ Tech Stack
 🐍 Programming Languages
